@@ -1,0 +1,67 @@
+a{
+  text-decoration: none;
+}
+
+
+
+
+.img-circle{
+  width: 150px;
+}
+
+/*navigation*/
+.navbar-brand{
+  font-family:'Roboto';
+  font-weight: bolder;
+  color: black;
+  margin-left: 60px;
+}
+.waves{
+  position: absolute;
+  opacity: 0.6;
+   z-index: -1;
+}
+.navigation{
+align-items: center;
+margin-left: 20px;
+margin-right: 50px;
+margin-bottom: 150px;
+justify-content: space-between;
+align-items: center;
+}
+.btn {
+
+  padding: 10px 16px 10px 16px;
+  text-decoration: none;
+}
+
+.nav-link{
+font-family:'Roboto';
+margin: 0 10px;
+font-weight: bold;
+color: black;
+}
+.nav-link:hover{
+  color: #1363DF;
+}
+/*about*/
+.first-break{
+  margin-bottom: 50px;
+}
+.about{
+  margin-top: 180px;
+
+}
+.hire-btn{
+  color: black;
+  font-weight: bold;
+}
+
+.bio{
+  margin-top: 60px;
+}
+/*resume*/
+.resume{
+
+  padding-left: 200px;
+}
