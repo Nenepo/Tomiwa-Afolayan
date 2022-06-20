@@ -39,7 +39,7 @@
       background-color: #D0C9C0;
       
      }
-     @media screen and (max-width: 768px) {
+     @media screen and (max-width: 992px) {
       img{
         width: 100%;
         
@@ -50,6 +50,12 @@
         margin: 100px auto 100px auto;
         text-align: center;
       }
-      
+       html{
+       overflow-x: hidden;
+       }
+       body{
+       box-sizing: border-box;
+         align-items: center;
+       }
      }
 
