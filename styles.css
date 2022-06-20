@@ -16,6 +16,10 @@ overflow-x: hidden;
 
 }
 
+div {
+  box-sizing: border-box;
+  }
+
  a{
   text-decoration: none;
  }
@@ -31,7 +35,7 @@ overflow-x: hidden;
       font-weight: 900;
       font-family:'Tai Heritage Pro', serif;
     }
-    hr.horizontal-rule{border: dotted black 10px;
+    hr.horizontal-rule{border: dotted black 6px;
       border-style: dotted;
       border-bottom: none;
         margin: 100px auto;
@@ -91,7 +95,7 @@ overflow-x: hidden;
         width: 80%;
         margin-top: 2%;
        }
-       hr.horizontal-rule {border: dotted black 10px;
+       hr.horizontal-rule {border: dotted black 6px;
         border-style: dotted;
         border-bottom: none;
           margin: 100px auto;
