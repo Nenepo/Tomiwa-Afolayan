@@ -1,0 +1,90 @@
+html{
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0;
+ 
+  }
+ a{
+  text-decoration: none;
+ }
+  nav{ position: absolute;
+  }
+  img{
+    width: 0;
+  }
+    section {
+      padding:  0;
+    }
+    h1,h2,h3,h4,h5,h6{
+      font-weight: 900;
+      font-family:'Tai Heritage Pro', serif;
+    }
+    hr.horizontal-rule{border: dotted black 10px;
+      border-style: dotted;
+      border-bottom: none;
+        margin: 100px auto;
+        width: 5%;
+    }
+    div.container{
+      margin: 0%;
+    }
+    
+/* nav-brand */
+    .xx {
+      border: none;
+      border-bottom: 2px solid transparent;
+      transition: .3s;
+      transform: ease-in-out;
+    }
+
+    .xx:hover {
+      border-bottom: 2px solid white;
+    }
+   
+    .bottom-container {
+
+      background-color: #D0C9C0;
+      
+     }
+    
+
+     @media screen and (max-width: 992px) {
+      img{
+        width: 100%;
+        
+      }
+      .intro{
+        
+        width: 90%;
+        margin: 100px auto 100px auto;
+        text-align: center;
+      }
+      
+       
+       div.resume-right{
+        text-align: left;
+         margin-top: 60px;
+        
+       
+        
+       }
+       div.resume-left{
+        margin-top: 40px;
+        margin-right: 0%;
+       }
+       div.resume-block{
+        width: 80%;
+       }
+       div.resume-ex{
+        width: 80%;
+       }
+       hr.horizontal-rule {border: dotted black 10px;
+        border-style: dotted;
+        border-bottom: none;
+          margin: 100px auto;
+          width: 5%;
+      }
+     
+     }
