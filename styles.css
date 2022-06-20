@@ -79,6 +79,7 @@ html{
        }
        div.resume-ex{
         width: 80%;
+        margin-top: 2%;
        }
        hr.horizontal-rule {border: dotted black 10px;
         border-style: dotted;
