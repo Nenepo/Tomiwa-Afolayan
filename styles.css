@@ -57,5 +57,9 @@
        box-sizing: border-box;
          align-items: center;
        }
+       .work-experience{
+       text-align: left;
+         margin-top: 40px;
+       }
      }
 
